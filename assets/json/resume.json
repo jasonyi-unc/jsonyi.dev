@@ -1,12 +1,10 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jason Yi",
+    "label": "Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "jasonyi@unc.edu",
+    "url": "https://jasonyi-unc.github.io/",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",

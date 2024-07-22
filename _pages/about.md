@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Software Engineer Intern at <href='https://www.fidelity.com/'> Fidelity Investments | Chapel Hill, NC, US
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: silly.jpg
+  image_circular: true # crops the image to make it circular
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+ I'm Jason Yi, and I work with Full-Stack Development in the Account Opening team at [Fidelity Investments](https://www.fidelity.com/) using GraphQL and Angular. I'm a rising junior at the [University of North Carolina at Chapel Hill](https://unc.edu) double majoring in Computer Science (B.S.) and Statistics and Analytics (B.S.)
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+At UNC-Chapel Hill, I am an incoming Undergraduate Research Assistant at the [STOR RTG Network Research Group](https://networks-pods-rtg.unc.edu/) under [Professor Fraiman](https://fraiman.web.unc.edu/) focusing on Synchronization Algorithms. I was also an Undergaduate TA for COMP 210 (Data Structures) and (hopefully) an incoming TA for COMP 550 (Algorithms).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My interests lie in low-latency development, operating systems, machine learning, and algorithms. I am currently reading [C++ Concurrency in Action](https://beefnoodles.cc/assets/book/C++%20Concurrency%20in%20Action.pdf) and listening to podcasts like [Signals and Threads](https://signalsandthreads.com/) by Jane Street. I'm always happy to have a conversation about these topics to gain new perspectives.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time, I enjoy bouldering, library hopping, taking long walks, weightlifting, solving problems, and watching clips of Suits on YouTube. I used to draw portraits and anatomy in high school competitively. A fun fact about me is that I studied abroad at South Korea in Summer 2023 at Yonsei University where I met my mom's relatives for the first time.
+
+Please reach me at jasonyi [at] unc [dot] edu to chat or collaborate!
