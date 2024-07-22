@@ -1,12 +1,14 @@
 github_users:
-  - jasonyi-unc
+  - torvalds
+  - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - jasonyi-unc/jasonyi-unc.github.io
-  - torvalds/linux
-  - autolab/Autolab
-  - jasonyi-unc/distributed-stock-exchange
-  - jasonyi-unc/restaurant-finder
-  - jasonyi-unc/twittermenti
+  - alshedivat/al-folio
+  - jekyll/jekyll
+  - twbs/bootstrap
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - mathjax/MathJax
+  - jpswalsh/academicons
