@@ -1,7 +1,7 @@
 ---
 layout: summary
 title: "Deep contextualized word representations (ELMo)"
-date: 2024-08-02
+date: 2023-08-02
 giscus_comments: true
 bib_id: 1802.05365v2
 ---
