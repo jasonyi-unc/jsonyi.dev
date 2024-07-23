@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Software Engineer Intern at <href='https://www.fidelity.com/'> Fidelity Investments | Chapel Hill, NC, US
+subtitle: Software Engineer Intern at Fidelity Investments | Chapel Hill, NC, US
 
 profile:
   align: right
