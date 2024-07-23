@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+permalink: /repos/
+title: repos
+description: personal and research repositories & open source projects
 nav: true
-nav_order: 4
+nav_order: 20
 ---
 
-## GitHub users
+## Stats
 
 {% if site.data.repositories.github_users %}
 
@@ -16,7 +16,6 @@ nav_order: 4
     {% include repository/repo_user.liquid username=user %}
   {% endfor %}
 </div>
-
 ---
 
 {% if site.repo_trophies.enabled %}
