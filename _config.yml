@@ -195,6 +195,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  summaries:
+    output: true
+    permalink: /summaries/:path/
 
 announcements:
   enabled: true
@@ -309,15 +312,15 @@ display_categories: [] # these categories will be displayed on the front page of
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Yi]
+  first_name: [Jason]
 
   style: apa
   locale: en
 
   source: /_bibliography/
-  bibliography: publications.bib
-  bibliography_template: bib
+  bibliography: summaries.bib
+  bibliography_template: custom_bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
@@ -330,10 +333,11 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: year
-  group_order: descending
 
-# Display different badges withs stats for your publications
+badges: # Display different badges withs stats for your publications
+  altmetric_badge: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
+  dimensions_badge: false # Dimensions badge (https://badge.dimensions.ai/)
+
 # Customize badge behavior in _layouts/bib.liquid
 enable_publication_badges:
   altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
