@@ -4,7 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - jasonyi-unc/jasonyi-unc.github.io
+  - jasonyi-unc/jsonyi.dev
   - torvalds/linux
   - autolab/Autolab
   - jasonyi-unc/distributed-stock-exchange
