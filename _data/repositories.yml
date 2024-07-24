@@ -5,8 +5,8 @@ repo_description_lines_max: 2
 
 github_repos:
   - jasonyi-unc/jsonyi.dev
-  - torvalds/linux
-  - autolab/Autolab
-  - jasonyi-unc/distributed-stock-exchange
+  - llvm/llvm-project
+  - cieslarmichal/faker-cxx
+  - artur-varosyan/distributed-stock-exchange-environment
   - jasonyi-unc/restaurant-finder
   - jasonyi-unc/twittermenti

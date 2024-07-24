@@ -20,6 +20,6 @@ At UNC-Chapel Hill, I am an incoming Undergraduate Research Assistant at the [ST
 
 My interests lie in low-latency development, operating systems, machine learning, and algorithms. I am currently reading [C++ Concurrency in Action](https://beefnoodles.cc/assets/book/C++%20Concurrency%20in%20Action.pdf) and listening to podcasts like [Signals and Threads](https://signalsandthreads.com/) by Jane Street. I'm always happy to have a conversation about these topics to gain new perspectives.
 
-In my free time, I enjoy bouldering, library hopping, taking long walks, weightlifting, solving problems, and watching clips of Suits on YouTube. I used to draw portraits and anatomy in high school competitively. A fun fact about me is that I studied abroad at South Korea in Summer 2023 at Yonsei University where I met my mom's relatives for the first time.
+In my free time, I enjoy library hopping, taking long walks, weightlifting, and solving problems. I used to draw portraits and anatomy in high school competitively. A fun fact about me is that I studied abroad at South Korea in Summer 2023 at Yonsei University where I met my mom's relatives for the first time.
 
 Please reach me at jasonyi [at] unc [dot] edu to chat or collaborate!

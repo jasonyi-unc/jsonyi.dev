@@ -1,1 +1,1 @@
-# [jsonyi.dev](https://jsontyi.dev)
+# [jsonyi.dev](https://jsonyi.dev)
