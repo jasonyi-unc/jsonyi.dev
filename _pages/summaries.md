@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /summaries/
-title: summaries
+title: Summaries
 description: >
 nav: true
 nav_order: 5

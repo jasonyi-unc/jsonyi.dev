@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Software Engineer Intern at Fidelity Investments | Chapel Hill, NC, US
 

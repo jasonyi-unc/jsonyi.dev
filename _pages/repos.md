@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repos/
-title: repos
+title: Repos
 description: personal and research repositories & open source projects
 nav: true
 nav_order: 20
