@@ -1,0 +1,7 @@
+{% assign codeforces_rating = site.data.codeforces_rating %}
+
+{% if codeforces_rating.rating != 'N/A' %}
+  <p class="{{ codeforces_rating.color }}">Current Rating: {{ codeforces_rating.rating }} ({{ codeforces_rating.title }})</p>
+{% else %}
+  <p>Unable to fetch rating</p>
+{% endif %}

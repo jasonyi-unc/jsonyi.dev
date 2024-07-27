@@ -197,6 +197,9 @@ collections:
   summaries:
     output: true
     permalink: /summaries/:path/
+  contests:
+    output: true
+    permalink: /contests/:path/
 
 announcements:
   enabled: true

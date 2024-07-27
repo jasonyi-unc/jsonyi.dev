@@ -10,11 +10,6 @@ layout: default
 
 {% include scripts/mathjax_macros.liquid %}
 
-<!-- hack to inherit CSS styles to suppress list counts -->
-<div class="publications">
-  {% bibliography --file summaries --query @*[id={{page.bib_id}}] %}
-</div>
-
 <div class="post">
   <article class="post-content">
     {% if page.toc and page.toc.beginning %}
