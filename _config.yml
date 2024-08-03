@@ -200,6 +200,9 @@ collections:
   contests:
     output: true
     permalink: /contests/:path/
+  problems:
+    output: true
+    permalink: /contests/:contest/:title/
 
 announcements:
   enabled: true

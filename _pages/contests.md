@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-Detailed analysis and walkthroughs of coding contests from Codeforces. I realized that I needed to do two things when it comes to contests: (1) to measure my current ability when competing and (2) to analyze and investigate the things I was lacking during the contest. This page is to make sure that I do the latter and become more familiar with similiar problems in the future. The goal is to improve my thought process instead of jumping from contest to contest with little to no insight carried over.
+Detailed analysis and walkthroughs of coding contests from Codeforces. This page is for me to become more familiar with similiar problems in the future. The goal is to improve my thought process instead of jumping from contest to contest with little to no insight carried over. You'll notice that some contests does not contain all problems from A-G. This is because that the later problems in any given contest would require some knowledge about a obscure data structure or an algorithm not widely used. It's better to focus on solving the earlier problems faster compared to memorizing algorithms that is far beyond your current skill level. Inspiration [here](https://codeforces.com/blog/entry/92248).
 
 ## Codeforces
 
