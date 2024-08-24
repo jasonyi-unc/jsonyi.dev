@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Jason Yi, and I work with Full-Stack Development in the Account Opening team at Fidelity Investments using GraphQL and Angular. I'm a rising junior at the [University of North Carolina at Chapel Hill](https://unc.edu) double majoring in Computer Science (B.S.) and Statistics and Analytics (B.S.)
+I'm Jason Yi, and I work with Full-Stack Development in the Account Opening team at Fidelity Investments using GraphQL and Angular. I'm a junior at the [University of North Carolina at Chapel Hill](https://unc.edu) double majoring in Computer Science (B.S.) and Statistics and Analytics (B.S.)
 
 I was an Undergaduate TA for COMP 210 (Data Structures) in Java during 2023-2024 and now a TA for COMP 211 (System Fundamentals) in C.
 

@@ -24,7 +24,7 @@ jobs:
           pip install requests pyyaml  # Add any other dependencies here
 
       - name: Run update script
-        run: python _scripts/fetch_codeforces_rating.py
+        run: python fetch_codeforces_rating.py
 
       - name: Commit and push changes
         run: |
