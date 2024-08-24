@@ -78,7 +78,7 @@ acm_id: # your dl.acm.org/profile/id
 blogger_url: # your blogger URL
 bluesky_url: # your bluesky URL
 dblp_url: # your DBLP profile url
-discord_id: 1173730194142539828 # your discord id (18-digit unique numerical identifier)
+discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
 github_username: jasonyi-unc # your GitHub user name
@@ -101,7 +101,7 @@ research_gate_profile: # your profile on ResearchGate
 scholar_userid: # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
-spotify_id: 315uuladq3p5qp344yejxskjbcmi?si=316f31a43f694975 # your spotify id
+spotify_id: # your spotify id
 stackoverflow_id: # your stackoverflow id
 telegram_username: # your Telegram user name
 unsplash_id: # your unsplash id
