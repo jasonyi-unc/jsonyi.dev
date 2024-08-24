@@ -1,5 +1,5 @@
 ---
-title: "Universal types, and your type checker doesn't suck as much as you think"
+title: "Universal Types"
 layout: post
 tags: [code, pl-theory]
 cover: sea.webp
@@ -9,14 +9,8 @@ class: post-template
 author: json
 description: >
   Universal types are very useful for performing generic programming, which
-  allows you to use the same code over different types. For instance, the C++ STL
-  (Standard Template Library) allows you to work on things like containers over
-  any arbitrary type. You would surely not want to re-implement the logic for
-  every concrete type that you use. Such a feature is known as parametric
-  polymorphism. It is different from the other kind of polymorphism normally
-  found in object-oriented languages that allows for overloading and run-time
-  dispatch, which is known as ad-hoc polymorphism. 
-  In this post, we understand the theoretical foundations underpinning universal types,
+  allows you to use the same code over different types. For instance, the C++ STL allows you to work on things like containers over
+  any arbitrary type. In this post, we understand the theoretical foundations underpinning universal types,
   and conclude with the landmark result that typechecking with universal
   types is undecidable.
 ---
