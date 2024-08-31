@@ -35,7 +35,7 @@ To formally introduce and discuss universal types, we work in the context of Sys
 \RightLabel{\(app\)}
 \AxiomC{$\Gamma \vdash t_1 : T_{11} \rightarrow T_{12}$}
 \AxiomC{$\Gamma \vdash t_2 : T_{11} $}
-\BinaryInfC{$\Gamma \vdash t*1\ t_2 : T*{12} $}
+\BinaryInfC{$\Gamma \vdash t_1\ t_2 : T_{12} $}
 \end{prooftree}
 
 \begin{prooftree}
@@ -47,7 +47,7 @@ To formally introduce and discuss universal types, we work in the context of Sys
 \begin{prooftree}
 \RightLabel{\(tapp\)}
 \AxiomC{$\Gamma \vdash t_1 : \forall X.T_{12} $}
-\UnaryInfC{$\Gamma \vdash t*1\ [T_2] : [X \rightarrow T_2] T*{12} $}
+\UnaryInfC{$\Gamma \vdash t_1\ [T_2] : [X \rightarrow T_2] T_{12} $}
 \end{prooftree}
 
 The first three rules are our old friends from the simply-typed lambda calculus, corresponding to variable typing, lambda abstraction, and lambda application.
