@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jsonyi.dev/sitemap.xml
+Sitemap: https://jasonyi-unc.github.io/sitemap.xml
